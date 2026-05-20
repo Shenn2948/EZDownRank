@@ -1,6 +1,4 @@
-## Interface: 11500
-## Interface-Classic: 11500
-## Interface-BCC: 20502
+## Interface: 20505
 ## X-Curse-Project-ID: 383394
 ## X-WoWI-ID: 25592
 ## X-Wago-ID: Rn6VPLGd
@@ -9,7 +7,6 @@
 ## Version: @project-version@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## OptionalDeps: LibGetFrame-1.0 VuhDo Grid2
 ## SavedVariables: DB
 
 embeds.xml
